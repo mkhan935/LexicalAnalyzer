@@ -1,0 +1,18 @@
+{
+  x > 1.; y >= .57e-3;
+  if ( x <= y )
+     x++;
+  x = x-1;
+  print x+y*5;
+
+  do x = x+y; while ( x <= 265.2E-2 )
+
+  switch ( x+y )
+  {
+    case 1: x = x+1;
+    case 2: x = x-y;
+    case 3: x = x*y;
+    case 4: x = x/y;
+    default: x = 2*x;
+  }
+}
