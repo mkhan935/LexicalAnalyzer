@@ -15,6 +15,11 @@ import java.io.PrintWriter;
  * then there should be an output.txt file in the src created that contains the outputs.
  *
  * its a little unclean as its all in one class file, but it helped me to do it this way
+
+ the objective is simple, it reads from the input and goes thru it for each type and lists it
+  on the output file. I've attached a readme of the project requirements.
+
+  pretty fun to create.
  */
 
     public abstract class lexical {
