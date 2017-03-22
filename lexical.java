@@ -19,7 +19,8 @@ import java.io.PrintWriter;
  the objective is simple, it reads from the input and goes thru it for each type and lists it
   on the output file. I've attached a readme of the project requirements.
 
-  pretty fun to create.
+  pretty fun to create a dfa as it helped applying the concept i learned in my theory
+  of computation course. Will try to do a parse tree next after my midterms.
  */
 
     public abstract class lexical {
